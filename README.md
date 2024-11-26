@@ -22,15 +22,19 @@ Importance of analyzing marketing data: Measure the impact of marketing initiati
 
 Role of reports: Assess marketing performance, optimize marketing spending, and guide strategy adjustments for better targeting and engagement.
 
-Technical & Analytical Skills:
- Proficiency in data extraction, transformation, and loading (ETL process).
- Skills to generate dynamic date tables using Power Query and Power Pivot.
- Ability to categorize and analyze data by regions, product types, or customer demographics.
- Establishing relationships between datasets using Power Pivot for advanced analysis.
- Proficiency in integrating third-party datasets into the analysis for richer insights.
- Using DAX to create dynamic and calculated measures for advanced reporting.
-Soft Skills:
- Strong understanding of marketing and customer satisfaction metrics.
+Technical & Soft Skills:
+- 	Proficiency in ETL methodology (Extract, Transform, Load).
+- 	Skills to generate a date table using Power Query.
+- 	Ability to derive fiscal months and quarters.
+- 	Establishing data model relationships with Power Pivot.
+- 	Proficiency in incorporating supplementary data into an existing data model.
+- 	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- 	Refined understanding of Sales & Finance Reports
+-  Designing user-centric reports with empathy in mind.
+-  Optimization of report generation through meticulous fine-tuning.
+- 	Developing a systematic approach to devising a report building plan.
  Designing user-friendly, intuitive reports with clear visualizations.
  Optimizing reports for faster generation and interactive features.
  Developing a structured approach to data analysis and report creation, focusing on business impact.
